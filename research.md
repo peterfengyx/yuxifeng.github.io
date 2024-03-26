@@ -3,11 +3,20 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "SQL-Encoder: Improving NL2SQL In-Context Learning Through a Context-Aware Encoder"
+      author:  "Mohammadreza Pourreza, Davood Rafiei, Yuxi Feng, Raymond Li, Zhenan Fan, Weiwei Zhang"
+      journal: "Preprint"
+      year:    "2024"
+      url:     "https://arxiv.org/abs/2403.16204"
+      Media:
+      - name: "Official Video"
+        url: "https://aclanthology.org/2023.acl-long.488.mp4"
+
+
 
     - title:   "DuNST: Dual Noisy Self Training for Semi-Supervised Controllable Text Generation"
       author:  "Yuxi Feng, Xiaoyuan Yi, Xiting Wang, Laks V.S. Lakshmanan, Xing Xie"
       journal: "ACL"
-      note:    ""
       year:    "2023"
       url:     "https://aclanthology.org/2023.acl-long.488/"
       Media:
@@ -17,7 +26,6 @@ pubs:
     - title:   "KEST: Kernel Distance Based Efficient Self-Training for Improving Controllable Text Generation"
       author:  "Yuxi Feng, Xiaoyuan Yi, Laks V.S. Lakshmanan, Xing Xie"
       journal: "IJCAI"
-      note:    ""
       year:    "2023"
       url:     "[https://aclanthology.org/2023.acl-long.488/](https://www.ijcai.org/proceedings/2023/0561.pdf)"
       doi:     "https://doi.org/10.24963/ijcai.2023/561"
@@ -25,7 +33,7 @@ pubs:
 
 ---
 
-## Publications (peer reviewed)
+## Publications
 
 {% assign thumbnail="left" %}
 
