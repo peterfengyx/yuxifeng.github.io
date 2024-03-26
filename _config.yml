@@ -22,7 +22,7 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider:
+    provider: False
     statcounter:
         sc_project  :
         sc_security :
@@ -43,7 +43,7 @@ analytics:
 # Set 'provider' to false to turn commenting off globally.
 #
 comments:
-    provider:
+    provider: False
     disqus:
       short_name:
     livefyre:
